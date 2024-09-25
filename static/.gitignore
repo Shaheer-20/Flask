@@ -1,0 +1,15 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore SQLite database
+*.db
+
+# Ignore other common unwanted files
+*.log
+*.sqlite3
+.DS_Store
